@@ -205,7 +205,7 @@ INSERT INTO status( name ) VALUES ("Đã hoàn thành");
  -->
 ```
 
-![Database Tructure](docs/DB_Structure.png)
+![Database Structure](docs/DB_Structure.png)
 
 ### Docker Setup
 
